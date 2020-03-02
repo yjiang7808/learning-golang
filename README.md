@@ -11,7 +11,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 
 [![Stargazers over time](https://starcharts.herokuapp.com/developer-learning/learning-golang.svg)](https://starcharts.herokuapp.com/developer-learning/learning-golang)
 
-[learning-golang Star History and Stats](https://seladb.github.io/StarTrack-js/?u=developer-learning&r=learning-golang)
+[learning-golang Star History and Stats](https://seladb.github.io/StarTrack-js/#/preload?r=developer-learning,learning-golang)
 
 ----
 
@@ -60,12 +60,14 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [《Go语言高级编程》开源免费图书(开发中...) ](https://github.com/chai2010/advanced-go-programming-book) |
 | [一本学习 Go 语言的免费电子书。 ](https://github.com/mikespook/Learning-Go-zh-cn) |
 | [《Effective Go》中英双语版](https://github.com/bingohuang/effective-go-zh-en) |
-| [Go 101](https://github.com/go101/go101) |
+| [Go 101](https://github.com/go101/go101) ([中文版](https://github.com/golang101/golang101)) |
 | [Go Language CookBook With Examples](https://ednsquare.com/publisher/view/Go-Language-CookBook-With-Examples------xOhLZaZVGG) |
 | [Go for Industrial Programming - Go 工业级编程](https://peter.bourgon.org/go-for-industrial-programming/) |
 | [Learn Go with tests](https://github.com/quii/learn-go-with-tests) |
 | [Go-SCP](https://github.com/Checkmarx/Go-SCP) |
 | [An example of gin](https://github.com/EDDYCJY/go-gin-example) |
+| [Go 语言原本（基于 Go 1.14）](https://changkun.de/golang) |
+| [Go 语言设计与实现](https://draveness.me/golang) |
 
 | Go 面试|
 |----|
@@ -73,6 +75,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [精华的 Go 面试题和答案](https://github.com/goquiz/goquiz.github.io)|
 | [编程面试题的 Go 实现](https://github.com/mrekucci/epi)|
 | [Exercism](http://exercism.io/languages/go/about) |
+| [面前必看](https://github.com/qcrao/interview) |
 
 | Go 其他|
 |----|
@@ -91,7 +94,8 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [Go 箴言(go-proverbs) - Rob Pike](https://go-proverbs.github.io/) |
 | [Go 相关的教程](https://appliedgo.net/) |
 | [KTH 的 Stefan Nilsson 教授自己写的算法和 Go 代码](https://yourbasic.org/) |
-
+| [终极 Go 学习指南 Ultimate Go study guides](https://github.com/hoanhan101/ultimate-go) |
+| [从问题切入，串连 Go 语言相关的所有知识，融会贯通。](https://github.com/qcrao/Go-Questions) |
 
 ## Go 学习视频
 
@@ -109,6 +113,7 @@ Go 学习之路将会不断更新维护，如果有推荐的博客、微信公�
 | [Jon Calhoun](https://www.youtube.com/user/joncalhoun/playlists) | 一系列的 Go 实现的算法视频。 |
 | [Go 语言基础教程 (O’Reilly)](http://www.bilibili.com/video/av8845689/) | O‘Reilly 的 Go 语言基础教程。|
 | [Go Web Programming Bootcamp](http://www.golang-book.com/guides/bootcamp) | Todd McLeod 在别的学校开过的训练营视频，从 Go 基础讲到基础的服务器开发和 GAE。 |
+| [Go 夜读](https://www.youtube.com/c/Go%E5%A4%9C%E8%AF%BB) |
 
 
 ## Go 文章
@@ -208,7 +213,7 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 | [Legendtkl](http://legendtkl.com/) | 
 | [行思錄,Travel Coder - Arch, Coding, Life Learning](https://liudanking.com) | 
 | [jasper的技术小窝 - 关注DevOps、运维监控、Python、Golang、开源、大数据、web开发、互联网](http://www.opscoder.info) | 
-| [Morsing's Blog](http://morsmachine.dk/index) |
+| [Morsing's Blog](http://morsmachine.dk/) | <http://morsmachine.dk/feed.atom>
 | [hanjm backend blog](https://imhanjm.com/) |
 | [《Go 语言实战》作者之一的博客](https://www.goinggo.net/) |
 | [Hi, I'm Francesc.](https://campoy.cat/blog) |
@@ -218,6 +223,10 @@ IntelliJ idea + Go Plugin、[Goland](https://www.jetbrains.com/go/)、[LiteIDE](
 | [煎鱼的迷之博客](https://github.com/EDDYCJY/blog) |
 | [Stefno - 博客园](https://www.cnblogs.com/qcrao-2018/) |
 | [No Headback - If you don't keep moving, you'll quickly fall behind.](http://xargin.com/readings/) |
+| [面向信仰编程 Draveness's Blog](https://draveness.me/) | <https://draveness.me/feed.xml>
+| [程序印象 知行合一 业精于勤](https://www.cn18k.com/) | <https://www.cn18k.com/atom.xml>
+| [菜鸟 Miao start from a newb...](http://blog.newbmiao.com/) | <http://blog.newbmiao.com/atom.xml>
+| [峰云就她了 - 专注于 GOLANG、PYTHON、DB、CLUSTER](http://xiaorui.cc/) | <http://xiaorui.cc/feed/>
 
 ----
 ## Go 社区
